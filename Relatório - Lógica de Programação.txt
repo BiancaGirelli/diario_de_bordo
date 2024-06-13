@@ -1,0 +1,15 @@
+18/04 
+TERCEIRA AULA
+
+Criamo o menu do jogo de adivinhação e colocamo no git hub
+
+16/05
+SÉTIMA AULA
+
+Criamos mais uma versão do jogo de adivinhação, pois um monte de gente não tinhao projeto. deixamos o menu bonitinhocom a estrutura de decisão (if..else).
+é um jogo onde um computador pensa num número e voc~e tenta adivinhar ele.
+
+23/05
+OITAVA AULA
+
+Botamos lógica no jogo , colocando pra repetir. Baixado o projeto para situação de aprendizagem usando o o Spring Initializr

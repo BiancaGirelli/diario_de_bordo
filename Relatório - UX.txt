@@ -1,0 +1,10 @@
+06/06
+NONA AULA
+
+Vimos os conceitos de UX, e procuramos sites de API gratuito pra tentar acessar pelo postman.
+Baixamos também o projeto modelo para usar a biblioteca OpenAPI e Swagger para documentação automática.
+
+13/06
+DÉCIMA AULA
+
+Usamos o suegger pra aprender o CRUD, fizemos isso aqui que é o diário de bordo, e salvamos no git hub

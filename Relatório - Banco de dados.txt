@@ -1,0 +1,14 @@
+25/04
+QUARTA AULA
+
+apresentação do conceito banco de dados, criação de modelo entidade relacionamento ai salvamo no git hub
+
+02/05
+QUINTA AULA
+
+criamo um banco de dado com alinguagem de programação MySQL
+
+09/05
+SEXTA AULA
+
+usamos a engenharia direta do MySQL para gerar o script de criação do banco, foi inserido algumas informações utilizando o comando Insert, utilizamos o comando select para ver as informações e salvamos as infor mações no git hub
