@@ -1,0 +1,52 @@
+20/06
+DÉCIMA PRIMEIRA AULA
+
+ Exculimos o repositorio do github chamado eventos,e criamos um repositorio chamado eventos_api para substitui-lo,criamos o projeto usando o spring initializr 
+ e adiconamos as dependencias ao projeto usando o spring initializr,adiconamos a dependencia do Spring OpenAPI
+ O projeto tem uma parte principal e uma parte de testes
+ Criamos a classe "tipo" e a classe "endereco" para servir de modelo de informação para depois podermos consultarmos as infromações
+ Criamos a classe Evento
+
+27/06
+DÉCIMA SEGUNDA AULA
+
+Fizemos uma prova em 3 jogos no Code.org e recriamos o jogo de adivinhação de números no scratch
+
+04/07
+DÉCIMA TERCEIRA AULA
+
+Criei uma "cópia" do space invaders no scratch (ficou muito boa 🎇🎇🎇) colocando os comandos e testando cada vez
+
+11/07
+DÉCIMA QUARTA AULA
+
+Terminei  jogo adicionando tudo que faltava e concertando os erros
+
+01/08
+DÉCIMA QUINTA AULA
+
+Continuamos o projeto "eventos api" utilizando o intelij adicionando os repositórios nas classes e também adicionamos controllers
+
+08/08
+DÉCIMA SEXTA AULA
+
+Fizemos os controllers das classes "evento" e "endereco", usamos o postman para verificare adicionar informações e depois do recreio fomos ver umas apresentações dos alunos do senai
+
+15/08
+DÉCIMA SÉTIMA AULA
+
+Criamos a "classe", "Controller" e "repository" para as seguintes entidades:cliente, usuario, midia, ingresso e fornecedor
+
+22/08
+DÉCIMA OITAVA AULA
+
+ Continuamos o projeto da api, corrigimos os erros do codigo, e testamos no postman os gets, os put's não estavam funcionando. 
+Iremos fazer uma apresentação para o professor na proxima aula, e depois dessa a apresentação será para os nossos pais
+ Apresentação Logica de programação - Gabryel,João,Thiago e eu 
+ Laço de repetição e decisão,minecraft,scratch
+laranja rosa e roxo cores padrao
+
+29/08
+DÉCIMA NONA AULA
+
+Continuamos o projeto da apresentação no canva e a finalizamos
